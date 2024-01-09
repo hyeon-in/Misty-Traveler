@@ -40,7 +40,7 @@ Artist on Facebook: https://www.facebook.com/frank.schroeter.52
 
 ### 효과음
 
-효과음들은 [Universal Sound FX](https://imphenzia.com/universal-sound-fx)를 Unity Asset Store에서 구매하여 사용하였습니다. 해당 효과음들의 경우 타인에게 제공하는 것이 금지되어있기 때문에 Asset에 포함하지 않았습니다.
+효과음들은 [Universal Sound FX](https://imphenzia.com/universal-sound-fx)를 Unity Asset Store에서 구매하여 사용하였습니다. 해당 효과음들의 경우 타인에게 제공하는 것이 금지되어 있기 때문에 Asset에 포함하지 않았습니다.
 
 ### 폰트
 - [갈무리](https://galmuri.quiple.dev/)
