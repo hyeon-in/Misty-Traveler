@@ -4,6 +4,7 @@
 
 미스티 트래블러는 2D 액션 플랫폼 게임으로, 2022년에 대학교 기말 프로젝트로 개발되었습니다.
 
+[다운로드](https://github.com/hyeon-in/Misty-Traveler/releases/download/ver1.0.0/Misty.Traveler.ver1.0.0.zip)
 
 ## 게임 플레이 쇼케이스
 
