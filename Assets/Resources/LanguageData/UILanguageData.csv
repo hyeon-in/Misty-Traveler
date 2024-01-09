@@ -1,0 +1,62 @@
+﻿Key,English,Korean
+Start,START,시작
+SelectProfile,Select Profile,프로필 선택
+Options,OPTIONS,설정
+Exit,EXIT,종료
+Video,VIDEO,비디오
+FullScreen,FULL SCREEN,전체 화면
+Resolution,RESOLUTION,해상도
+VSync,VSYNC,VSYNC
+Sound,SOUND,소리
+MasterVolume,MASTER VOLUME,마스터 볼륨
+MusicVolume,MUSIC VOLUME,음악 볼륨
+EffectsVolume,EFFECTS VOLUME,효과음 볼륨
+Controls,CONTROLS,조작
+Actions,ACTIONS,행동
+Keyboard,KEYBOARD,키보드
+Controller,CONTROLLER,게임패드
+Move,MOVE,움직이기
+MoveLeft,MOVE LEFT,왼쪽으로
+MoveRight,MOVE RIGHT,오른쪽으로
+MoveUp,MOVE UP,위로
+MoveDown,MOVE DOWN,아래로
+Jump,JUMP,점프
+Attack,ATTACK,공격
+SpecialAttack,SPECIAL ATTACK,특수 공격
+Dodge,DODGE,회피
+ResetToDefault,RESET TO DEFAULT,기본값으로 초기화
+Accessibility,ACCESSIBILITY,접근성
+ControllerVibration,CONTROLLER VIBRATION,게임패드 진동
+ScreenShake,SCREEN SHAKE,화면 떨림
+ScreenFlashes,SCREEN FLASHES,화면 번쩍임
+Language,LANGUAGE,언어
+ReturnToTitleScreen,RETURN TO TITLE SCREEN,메인 화면으로
+QuitToDesktop,QUIT TO DESKTOP,게임 종료
+Enabled,ENABLED,사용함
+Disabled,DISABLED,사용 안 함
+Confirm,Confirm,확인
+Back,Back,뒤로
+Delete,Delete,삭제
+OpenVideoMenu,Open video options menu,비디오 설정 메뉴 열기
+OpenSoundMenu,Open sound options menu,사운드 설정 메뉴 열기
+OpenControlsMenu,Open controls options menu,조작 설정 메뉴 열기
+OpenAccessibilityMenu,Open accessibility options menu,접근성 설정 메뉴 열기
+OpenLangaugeMenu,Open language options menu,언어 설정 메뉴 열기
+ExitToTitleScreen,Exit to title screen,타이틀 화면으로
+ExitGame,Exit game,게임 종료
+ChangeScreenMode,Change screen mode,화면 모드 변경
+SelectResolution,Select resolution,해상도 선택
+ToggleVSync,Toggle VSync,VSync 전환
+ChangeVolume,Change volume,볼륨 조절
+RebindKey,Rebind key,버튼 재설정
+ChangeControllerVibration,Change controller vibration,게임패드 진동 조절
+ToggleScreenShake,Toggle screen shaking effects,화면 떨림 효과 전환
+ToggleScreenFlashes,Toggle screen flashing effects,전체 화면 번쩍임 효과 전환
+ChangeLanguage,Change language,언어 변경
+Map,MAP,지도
+Center,Center,가운데로
+Zoom,Zoom,확대/축소
+Rest,Rest,휴식하기
+Climb,Wall Jump,벽 차기
+DoubleJump,Double Jump,이단 점프
+Empty,,

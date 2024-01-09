@@ -1,0 +1,5 @@
+﻿Key,Name,PatrolSpeed,FollowSpeed,IsBodyTackled,BodyTackleDamage,DetectRange,AttackDelay,AttackDamage,Health,SuperArmor,Money
+Observer,옵저버,2.50,0.00,TRUE,1,0.00,0.00,1,15,FALSE,0
+FlyingEnemy,플라잉,1.00,0.00,TRUE,1,15.00,2.00,1,10,TRUE,0
+Driller,드릴러,2.50,5.00,TRUE,1,8.00,1.00,1,15,FALSE,0
+Delegate,델리게이트,16.5,0.00,FALSE,1,10.00,1.00,1,90,TRUE,0
